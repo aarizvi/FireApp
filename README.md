@@ -3,6 +3,8 @@ title: "Fire Incident App"
 output: github_document
 ---
 
+Please find the ShinyApp for the project at https://aarizvi.shinyapps.io/fireapp/
+
 # Introduction
 We were given a dataset that investigated fire incidences in the United States. The data was from the years 2006-2015. We only looked at a subset of the data from the years 2012-2015. Our focus was specifically on residental fire incidences. We first explored the data and manually curated the dataset such that only informative variables were kept. The variables that we decided to keep upon cleaning were `AREA_ORIG`, `CAUSE_IGN`, and `HEAT_SOURC`. The columns can be further described as the following:  
 *  `AREA_ORIG` = Area of Fire Origin  
